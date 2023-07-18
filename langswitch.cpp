@@ -169,6 +169,7 @@ const Layout layouts[] = {
     { "ru-RU",   "Russian",                                               0x00000419, 0x04190419 },
     { "",        "Russian - Mnemonic",                                    0x00020419, 0xf0330419 },
     { "",        "Russian (Typewriter)",                                  0x00010419, 0xf0080419 },
+    { "ru-IBTL", "Russian (Ilya Birman's typographic layout)",            0xa0000419, 0xf0c00419 },
     { "",        "Sakha",                                                 0x00000485, 0x04850485 },
     { "",        "Sami Extended Finland-Sweden",                          0x0002083b, 0xf02e083b },
     { "",        "Sami Extended Norway",                                  0x0001043b, 0xf02c043b },
